@@ -23,7 +23,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 
 ## Table of Contents
 
-Total deals: 648
+Total deals: 649
 
 - [👨‍💻 Developer Tools ](#-developer-tools)
 	- [💻 Developer macOS Apps (31)](#-developer-macos-apps)
@@ -110,6 +110,7 @@ Total deals: 648
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
+|  🐙 | [GitKraken](https://www.gitkraken.com) | The world’s leading developer experience (DevEx) platform relied on by 30 million devs at 100,000 prestigious companies | Cyber Sale: Up to 85% OFF GitKraken Pro! |
 |  ⭐ | [Tailscan for Tailwind CSS](https://tailscan.com) | The ultimate devtool browser extension for Tailwind CSS. Inspect, debug, convert and more! | 25% OFF! |
 |  ⭐ | [snappify](https://snappify.com) | A powerful PowerPoint alternative for developers. Create stunning presentations, smoothly animated videos and elevate your technical content! | 30% OFF the first year with the code **BF_2024** |
 | 📸 | [ScreenshotOne](https://screenshotone.com) | The best screenshot API for developers. | 25% OFF with code **BLACKFRIDAY2024** on all annual plans for the first year. |
